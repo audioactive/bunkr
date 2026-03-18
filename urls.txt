@@ -1,0 +1,6 @@
+# Bunkr Album URLs – eine pro Zeile
+# Zeilen mit # werden ignoriert
+
+# Beispiele (ersetze mit echten URLs):
+# https://bunkr.si/a/ALBUMID1
+# https://bunkr.si/a/ALBUMID2
